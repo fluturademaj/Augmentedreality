@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=03:31:52:00:75:BA:02:DE:BB:DF:91:8F:68:21:F6:22:5E:D7:D6:5B%3Bcom.flutra.augmentedreality
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    03:31:52:00:75:BA:02:DE:BB:DF:91:8F:68:21:F6:22:5E:D7:D6:5B
+
+    SHA-1 certificate fingerprint:
+    03:31:52:00:75:BA:02:DE:BB:DF:91:8F:68:21:F6:22:5E:D7:D6:5B
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB2NBpJBHaBM_bCKcSzRU2ArcDTLLCWNQk</string>
+</resources>
